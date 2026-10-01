@@ -29,5 +29,9 @@ The prompts used were as follows:
 4. use cards for work history. this will be a plain scroll on one page  
 5. create the HTML skeleton first  
 6. use the information from this resume  
-7. add css  
+7. add css   
+
+Peer Review Link:
+Here is the link to the pull request for my peer review (Eleah Burman)   
+https://github.com/EleahBurman/eleah-burman-project-1/pull/1  
 
